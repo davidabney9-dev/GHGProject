@@ -1,0 +1,19 @@
+﻿AER Fuel Type Code,EnergyType,IsRenewable
+SUN,Solar,TRUE
+COL,Coal ,FALSE
+DFO,Distillate Petroleum,FALSE
+GEO,Geothermal,TRUE
+HPS,Hydroelectric Pumped Storage,TRUE
+HYC,Hydroelectric Conventional,TRUE
+MLG,Biomass and Biogas,TRUE
+NG,Natural Gas,FALSE
+NUC,Nuclear,FALSE
+OOG,Other Gases,FALSE
+ORW,Other Renewables ,TRUE
+OTH,Other (including nonbiogenic MSW),FALSE
+PC,Petroleum Coke,FALSE
+RFO,Residual Petroleum,FALSE
+WND,Wind,TRUE
+WOC,Waste Coal,FALSE
+WOO,Waste Oil,FALSE
+WWW,Wood and Wood Waste,TRUE
